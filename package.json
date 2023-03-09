@@ -1,0 +1,21 @@
+{
+  "name": "exam_blockchain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.2",
+    "@truffle/hdwallet-provider": "^2.1.7",
+    "dotenv": "^16.0.3",
+    "ethers": "^6.0.8"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "description": ""
+}
